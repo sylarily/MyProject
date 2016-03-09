@@ -1,0 +1,19 @@
+; ReadExcel.def : 声明 DLL 的模块参数。
+
+LIBRARY      "ReadExcel"
+
+EXPORTS
+    ; 此处可以是显式导出
+    LoadExcel				@1
+    GetKV					@2
+    GetMA					@3
+    
+    GetSmallLSSTime			@4
+    GetSmallHSSTime			@5
+    GetLargeLSSTime			@6
+    GetLargeHSSTime			@7
+    
+    GetLargeLSSmAs			@8
+    GetLargeHSSmAs			@9
+    GetSmallLSSmAs			@10
+    GetSmallHSSmAs			@11

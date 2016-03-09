@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReadExcel", "ReadExcel\ReadExcel.vcproj", "{72C3A743-8A8D-4D43-94AD-81C139E5D1AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Read", "Read\Read.vcproj", "{CE47E8D9-685A-45E0-820B-C585AD51F855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C3A743-8A8D-4D43-94AD-81C139E5D1AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72C3A743-8A8D-4D43-94AD-81C139E5D1AF}.Debug|Win32.Build.0 = Debug|Win32
+		{72C3A743-8A8D-4D43-94AD-81C139E5D1AF}.Release|Win32.ActiveCfg = Release|Win32
+		{72C3A743-8A8D-4D43-94AD-81C139E5D1AF}.Release|Win32.Build.0 = Release|Win32
+		{CE47E8D9-685A-45E0-820B-C585AD51F855}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE47E8D9-685A-45E0-820B-C585AD51F855}.Debug|Win32.Build.0 = Debug|Win32
+		{CE47E8D9-685A-45E0-820B-C585AD51F855}.Release|Win32.ActiveCfg = Release|Win32
+		{CE47E8D9-685A-45E0-820B-C585AD51F855}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
